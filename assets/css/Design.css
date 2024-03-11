@@ -15,12 +15,11 @@ body{
     color: #227115; /* Define a cor dos links quando o mouse está sobre eles */
   }
   
-  #container{
+  #cabeçalho{
     width: 1080px; /* Define a largura do contêiner */
     margin: 0 auto; /* Centraliza o contêiner na página */
   }
   
-  /* Layout */
   /* Layout */
   
   #logo a{
@@ -62,8 +61,7 @@ body{
   nav ul li a:hover{
     border-bottom: 1px solid #535858; /* Adiciona uma borda inferior aos links quando o mouse está sobre eles */
   }
-  
-  /*Formatação Principal*/
+
   /* Formatação Principal */
   
   #conteudo{
@@ -169,7 +167,6 @@ body{
     border: none; /* Remove a borda do fieldset */
   }
   
-  /*Rodapé*/
   /* Rodapé */
   
   footer{
