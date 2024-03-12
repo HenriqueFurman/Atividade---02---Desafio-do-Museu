@@ -3,7 +3,7 @@
 body{
     background: #f4f2ec url(../imagens/fundo.png) repeat-x; /* Define a cor de fundo e adiciona uma imagem de fundo */
     font-size: 12px; /* Define o tamanho da fonte */
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; /* Define a família de fontes */
+    font-family: 'Times New Roman', Times, serif; /* Define a família de fontes */
   }
   
   a:link, a:visited, a:active{
@@ -14,7 +14,7 @@ body{
   a:hover{
     color: #227115;                                   /* Define a cor dos links quando o mouse está sobre eles */
   }
-  
+
   #cabeçalho{
     width: 1080px;                                      /* Define a largura do contêiner */
     margin: 0 auto;                                     /* Centraliza o contêiner na página */
